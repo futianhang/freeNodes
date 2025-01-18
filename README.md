@@ -1,3 +1,4 @@
+无法访问请自行搜索添加github代理加速前缀
 | 项目 | v2ray | clash |
 | :----- | :----- | :----- |
 | [aiboboxx/v2rayfree](https://github.com/aiboboxx/v2rayfree) | https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2 |  |
