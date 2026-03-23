@@ -8,4 +8,4 @@
 | [peasoft/NoMoreWalls](https://github.com/peasoft/NoMoreWalls) | https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.meta.yml | https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.txt |  |
 | [shaoyouvip/free](https://github.com/shaoyouvip/free) | https://raw.githubusercontent.com/shaoyouvip/free/refs/heads/main/all.yaml | https://raw.githubusercontent.com/shaoyouvip/free/refs/heads/main/base64.txt |  |
 
-无法访问请自行搜索添加github代理加速前缀
+可用的github代理加速前缀：https://gh-proxy.org/
