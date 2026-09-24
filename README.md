@@ -8,5 +8,6 @@
 | [shaoyouvip/free](https://github.com/shaoyouvip/free) |  | https://raw.githubusercontent.com/shaoyouvip/free/refs/heads/main/all.yaml | https://raw.githubusercontent.com/shaoyouvip/free/refs/heads/main/base64.txt |
 | [dongchengjie/airport](https://github.com/dongchengjie/airport) |  | https://raw.githubusercontent.com/dongchengjie/airport/refs/heads/main/subs/merged/tested_within.yaml |  |
 | [ishalumi/proxy-node-collector](https://github.com/ishalumi/proxy-node-collector) |  |  | https://raw.githubusercontent.com/ishalumi/proxy-node-collector/main/output/nodes_base64.txt |
+| [free-nodes/v2rayfree](https://github.com/free-nodes/v2rayfree) |  |  | https://raw.githubusercontent.com/free-nodes/v2rayfree/main/sub |
 
 可用的github代理加速前缀：https://gh-proxy.org/
